@@ -6,7 +6,11 @@ Kaggle, SIGNATE, ProbSpace, etc.
 https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
 
 ### 1, Business Understanding
-
+```
+What is the purpose of this?
+What's important.
+The importance of hypothetical thinking.
+```
 
 ### 2, Data Understanding
 ```
@@ -68,7 +72,11 @@ mlflow (a tool to manage your models)
 
 ```
 ### 5, Evaluation
-
-
+```
+Evaluate the accuracy of the model
+Determine if improvements should be made
+```
 ### 6, Deployment
-
+```
+Take action based on the results obtained.
+```

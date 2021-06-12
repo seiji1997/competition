@@ -5,4 +5,20 @@ Kaggle, SIGNATE, ProbSpace, etc.
 参考　CRISP-DM (Cross industry standard process for data mining)<br>
 https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
 
-1,  
+### 1, Business Understanding
+
+
+### 2, Data understanding
+
+
+### 3, Data Preparation
+
+
+### 4, Modeling
+
+
+### 5, Evaluation
+
+
+### 6, deployment
+

@@ -44,7 +44,6 @@ Aggregation of Categorical Features
 Combinatorial Feature Generation for Categorical Features
 Polynomial Feature Creation
 
-
 Useful Tools
 sklearn.preprocessiong
 featuretools (a tool that automatically generates features for you)
@@ -59,11 +58,9 @@ Correlation coefficients between objective and explanatory variables
 Extraction by Lasso or Ridge regression
 Importance extraction using decision tree-based models (Random Forest, XGBoost, LightGBM)
 
-
 Learning model interpretation methods (LIME, SHAP)
 Visualization of decision trees (dtreeviz)
 　By determining the importance of features, we can consider what features are important and what features are unnecessary. The results can be used to recreate the features or to assist in model interpretation.
-
 
 sklearn.feature_selection.SelectKBest
 sklean.feature_selection.RFE
